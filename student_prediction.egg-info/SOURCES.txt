@@ -1,0 +1,14 @@
+setup.py
+src/__init__.py
+src/exception.py
+src/logger.py
+src/utils.py
+src/components/__init__.py
+src/components/data_ingetsion.py
+src/components/data_transformation.py
+src/components/model_training.py
+student_prediction.egg-info/PKG-INFO
+student_prediction.egg-info/SOURCES.txt
+student_prediction.egg-info/dependency_links.txt
+student_prediction.egg-info/requires.txt
+student_prediction.egg-info/top_level.txt

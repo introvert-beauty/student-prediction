@@ -1,0 +1,7 @@
+[ 2024-09-26 17:56:49,234 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-09-26 17:56:49,237 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-09-26 17:56:51,425 ] 28 root - INFO - data is reading as dataframe
+[ 2024-09-26 17:56:51,460 ] 33 root - INFO - split the data as train and test
+[ 2024-09-26 17:56:51,520 ] 62 root - INFO - read the train and test
+[ 2024-09-26 17:56:51,520 ] 64 root - INFO - take the properocessor object
+[ 2024-09-26 17:56:51,520 ] 76 root - INFO - apply preprocessor

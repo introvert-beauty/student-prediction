@@ -1,0 +1,12 @@
+prefix=d:/DATA_SCIENCE_PROJECTS/student_prediction_marks/venv/Library
+exec_prefix=d:/DATA_SCIENCE_PROJECTS/student_prediction_marks/venv/Library
+libdir=d:/DATA_SCIENCE_PROJECTS/student_prediction_marks/venv/Library/lib
+includedir=d:/DATA_SCIENCE_PROJECTS/student_prediction_marks/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

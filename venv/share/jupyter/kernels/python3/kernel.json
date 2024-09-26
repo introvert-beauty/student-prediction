@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "d:/DATA_SCIENCE_PROJECTS/student_prediction_marks/venv\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": false
+ }
+}
