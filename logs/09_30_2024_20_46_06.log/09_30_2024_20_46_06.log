@@ -1,2 +1,18 @@
 [ 2024-09-30 20:46:06,887 ] 97 werkzeug - WARNING -  * Debugger is active!
 [ 2024-09-30 20:46:06,899 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-30 20:47:56,711 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2024 20:47:56] "POST / HTTP/1.1" 200 -
+[ 2024-09-30 20:47:56,757 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2024 20:47:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-09-30 20:49:13,789 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2024 20:49:13] "POST / HTTP/1.1" 200 -
+[ 2024-09-30 20:51:18,482 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2024 20:51:18] "POST / HTTP/1.1" 200 -
+[ 2024-09-30 20:55:08,340 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2024 20:55:08] "POST / HTTP/1.1" 200 -
+[ 2024-09-30 20:57:23,665 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2024 20:57:23] "POST / HTTP/1.1" 200 -
+[ 2024-09-30 20:57:29,869 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2024 20:57:29] "POST / HTTP/1.1" 200 -
+[ 2024-09-30 20:58:13,131 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2024 20:58:13] "POST / HTTP/1.1" 200 -
+[ 2024-09-30 20:58:34,023 ] 97 werkzeug - INFO -  * Detected change in 'd:\\data_science_projects\\student_prediction_marks\\src\\components\\data_ingetsion.py', reloading
+[ 2024-09-30 20:58:34,023 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\components\\data_ingetsion.py', reloading
+[ 2024-09-30 20:58:34,026 ] 97 werkzeug - INFO -  * Detected change in 'd:\\data_science_projects\\student_prediction_marks\\src\\components\\data_transformation.py', reloading
+[ 2024-09-30 20:58:34,031 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\components\\data_transformation.py', reloading
+[ 2024-09-30 20:58:34,037 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\utils.py', reloading
+[ 2024-09-30 20:58:34,037 ] 97 werkzeug - INFO -  * Detected change in 'd:\\data_science_projects\\student_prediction_marks\\src\\utils.py', reloading
+[ 2024-09-30 20:58:34,891 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\model_check.py', reloading
+[ 2024-09-30 20:58:34,904 ] 97 werkzeug - INFO -  * Detected change in 'd:\\data_science_projects\\student_prediction_marks\\model_check.py', reloading
