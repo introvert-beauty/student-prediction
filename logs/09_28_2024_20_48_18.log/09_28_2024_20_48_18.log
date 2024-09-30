@@ -1,0 +1,15 @@
+[ 2024-09-28 20:48:19,091 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 20:48:19,091 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 20:48:19,091 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 20:48:19,107 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 20:48:19,107 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 20:48:19,122 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 20:48:50,291 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\pipeline\\data_ingetsion.py', reloading
+[ 2024-09-28 20:48:50,291 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\pipeline\\data_ingetsion.py', reloading
+[ 2024-09-28 20:48:50,291 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\pipeline\\data_ingetsion.py', reloading
+[ 2024-09-28 20:48:50,294 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\components\\data_ingetsion.py', reloading
+[ 2024-09-28 20:48:50,294 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\components\\data_ingetsion.py', reloading
+[ 2024-09-28 20:48:50,294 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\components\\data_ingetsion.py', reloading
+[ 2024-09-28 20:48:50,294 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\components\\data_ingetsion.py', reloading
+[ 2024-09-28 20:48:50,297 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\components\\data_ingetsion.py', reloading
+[ 2024-09-28 20:48:50,297 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\components\\data_ingetsion.py', reloading

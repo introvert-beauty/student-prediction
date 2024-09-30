@@ -1,0 +1,16 @@
+[ 2024-09-29 17:39:55,590 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 17:39:55,594 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-29 17:39:55,918 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 17:39:55,921 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-29 17:39:59,566 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:39:59] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2024-09-29 17:39:59,676 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:39:59] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-09-29 17:39:59,681 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:39:59] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-09-29 17:39:59,701 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:39:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-09-29 17:43:32,399 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:43:32] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2024-09-29 17:43:32,442 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:43:32] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-09-29 17:43:32,443 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:43:32] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-09-29 17:43:32,464 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 17:43:32] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-09-29 17:43:59,988 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\components\\model_training.py', reloading
+[ 2024-09-29 17:43:59,995 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\components\\model_training.py', reloading
+[ 2024-09-29 17:43:59,995 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\components\\model_training.py', reloading
+[ 2024-09-29 17:43:59,995 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\components\\model_training.py', reloading

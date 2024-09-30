@@ -1,0 +1,9 @@
+[ 2024-09-29 18:34:49,337 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 18:34:49,356 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-29 18:34:49,541 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 18:34:49,541 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-29 18:34:49,755 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 18:34:49,760 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-29 18:38:01,275 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 18:38:01] "POST / HTTP/1.1" 200 -
+[ 2024-09-29 18:38:38,248 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 18:38:38] "POST / HTTP/1.1" 200 -
+[ 2024-09-29 18:40:16,559 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Sep/2024 18:40:16] "POST / HTTP/1.1" 200 -

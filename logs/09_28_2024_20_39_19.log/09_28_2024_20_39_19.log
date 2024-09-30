@@ -1,0 +1,6 @@
+[ 2024-09-28 20:39:19,262 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 20:39:19,273 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 20:39:53,749 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 20:39:53] "GET / HTTP/1.1" 200 -
+[ 2024-09-28 20:40:40,172 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\_pytest\\monkeypatch.py', reloading
+[ 2024-09-28 20:40:40,188 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\_pytest\\recwarn.py', reloading
+[ 2024-09-28 20:40:40,203 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\_pytest\\tmpdir.py', reloading

@@ -24,30 +24,19 @@ class DataTransformation:
         try:
             categorical=[]
             numerical=[ 'StudentID', 'Age', 'Gender', 'Ethnicity', 'ParentalEducation', 'StudyTimeWeekly', 'Absences', 'Tutoring', 'ParentalSupport', 'Extracurricular', 'Sports', 'Music', 'Volunteering', 'GradeClass']
-            num_pipeline=Pipeline(
-                steps=[
-                    ("inputer",SimpleImputer(strategy="median")),
-                    ("standardscaler",StandardScaler())
-                ]
-            )
-            cat_pipeline=Pipeline(
+            num_pipeline = Pipeline(
+       steps=[
+        ("inputer", SimpleImputer(strategy="median")),
+        ("standardscaler", StandardScaler())
+    ]
+)
 
-                steps=[
-                ("imputer",SimpleImputer(strategy="most_frequent")),
-                ("one_hot_encoder",OneHotEncoder()),
-                ("scaler",StandardScaler(with_mean=False))
-                ]
-
-            )
-            preprocessor=ColumnTransformer(
-                [
-                ("num_pipeline",num_pipeline,numerical),
-                ("cat_pipelines",cat_pipeline,categorical)
-
-                ]
-
-
-            )
+# Preprocessor (only numerical pipeline)
+            preprocessor = ColumnTransformer(
+    transformers=[
+        ("num_pipeline", num_pipeline, numerical),
+    ]
+)
 
             return preprocessor
         except Exception as e:

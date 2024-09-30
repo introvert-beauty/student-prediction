@@ -1,0 +1,26 @@
+[ 2024-09-28 14:35:15,435 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.55.103:5000
+[ 2024-09-28 14:35:15,441 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2024-09-28 14:35:59,562 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 14:35:59] "GET / HTTP/1.1" 200 -
+[ 2024-09-28 14:35:59,672 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 14:35:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-09-28 14:36:07,490 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 14:36:07] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-09-28 14:37:50,999 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 14:37:50] "[33mPOST /submit HTTP/1.1[0m" 404 -
+[ 2024-09-28 14:37:51,051 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 14:37:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-09-28 14:37:59,822 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 14:37:59] "[33mPOST /submit HTTP/1.1[0m" 404 -
+[ 2024-09-28 15:46:56,760 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 15:46:56] "[33mPOST /submit HTTP/1.1[0m" 404 -
+[ 2024-09-28 15:48:07,232 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 15:48:07] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-09-28 15:48:53,853 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 15:48:53] "[33mPOST /submit HTTP/1.1[0m" 404 -
+[ 2024-09-28 15:53:46,909 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 15:53:46] "[33mPOST /submit HTTP/1.1[0m" 404 -
+[ 2024-09-28 15:56:11,085 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 15:56:11] "[33mPOST /submit HTTP/1.1[0m" 404 -
+[ 2024-09-28 15:59:12,099 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 15:59:12] "[33mPOST /submit HTTP/1.1[0m" 404 -
+[ 2024-09-28 16:00:25,111 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 16:00:25] "[33mPOST /submit HTTP/1.1[0m" 404 -
+[ 2024-09-28 16:02:35,432 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 16:02:35] "[33mPOST /submit HTTP/1.1[0m" 404 -
+[ 2024-09-28 16:02:35,487 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 16:02:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-09-28 16:11:28,524 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 16:11:28] "[33mPOST /submit HTTP/1.1[0m" 404 -
+[ 2024-09-28 16:11:28,571 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 16:11:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-09-28 16:11:37,181 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 16:11:37] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-09-28 16:12:28,795 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 16:12:28] "[33mPOST /submit HTTP/1.1[0m" 404 -
+[ 2024-09-28 16:13:45,133 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 16:13:45] "[33mPOST /submit HTTP/1.1[0m" 404 -
+[ 2024-09-28 16:13:45,177 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 16:13:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

@@ -1,0 +1,61 @@
+[ 2024-09-29 18:26:59,400 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 18:26:59,400 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-29 18:26:59,415 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 18:26:59,420 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-29 18:26:59,443 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\notebook_shim\\__init__.py', reloading
+[ 2024-09-29 18:26:59,456 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\parso\\__init__.py', reloading
+[ 2024-09-29 18:26:59,456 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\partd\\__init__.py', reloading
+[ 2024-09-29 18:26:59,458 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\ptyprocess\\__init__.py', reloading
+[ 2024-09-29 18:26:59,468 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\pyarrow\\__init__.py', reloading
+[ 2024-09-29 18:26:59,468 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\pyasn1_modules\\__init__.py', reloading
+[ 2024-09-29 18:26:59,475 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\pyct\\__init__.py', reloading
+[ 2024-09-29 18:26:59,481 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\pydeck\\__init__.py', reloading
+[ 2024-09-29 18:26:59,483 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\pydispatch\\__init__.py', reloading
+[ 2024-09-29 18:26:59,483 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\pydocstyle\\__init__.py', reloading
+[ 2024-09-29 18:26:59,496 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\pyls_spyder\\__init__.py', reloading
+[ 2024-09-29 18:26:59,496 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\PyQt5\\__init__.py', reloading
+[ 2024-09-29 18:26:59,517 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\pyviz_comms\\__init__.py', reloading
+[ 2024-09-29 18:26:59,526 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\qdarkstyle\\__init__.py', reloading
+[ 2024-09-29 18:26:59,526 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\qstylizer\\__init__.py', reloading
+[ 2024-09-29 18:26:59,540 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\qtawesome\\__init__.py', reloading
+[ 2024-09-29 18:26:59,544 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\qtconsole\\__init__.py', reloading
+[ 2024-09-29 18:26:59,544 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\queuelib\\__init__.py', reloading
+[ 2024-09-29 18:26:59,559 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\repo_cli\\__init__.py', reloading
+[ 2024-09-29 18:26:59,559 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\rope\\__init__.py', reloading
+[ 2024-09-29 18:26:59,566 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\ruamel_yaml\\__init__.py', reloading
+[ 2024-09-29 18:26:59,568 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\s3fs\\__init__.py', reloading
+[ 2024-09-29 18:26:59,577 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\scipy\\conftest.py', reloading
+[ 2024-09-29 18:26:59,577 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\scipy\\version.py', reloading
+[ 2024-09-29 18:26:59,587 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\sipbuild\\__init__.py', reloading
+[ 2024-09-29 18:26:59,593 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\slugify\\__init__.py', reloading
+[ 2024-09-29 18:26:59,595 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\smmap\\__init__.py', reloading
+[ 2024-09-29 18:26:59,599 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\snappy\\__init__.py', reloading
+[ 2024-09-29 18:26:59,613 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\spyder\\__init__.py', reloading
+[ 2024-09-29 18:26:59,615 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\spyder_kernels\\__init__.py', reloading
+[ 2024-09-29 18:26:59,620 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\stack_data\\__init__.py', reloading
+[ 2024-09-29 18:26:59,625 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\textdistance\\__init__.py', reloading
+[ 2024-09-29 18:26:59,630 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 18:26:59,630 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\text_unidecode\\__init__.py', reloading
+[ 2024-09-29 18:26:59,630 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\three_merge\\__init__.py', reloading
+[ 2024-09-29 18:26:59,630 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\tinycss2\\__init__.py', reloading
+[ 2024-09-29 18:26:59,637 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-29 18:26:59,642 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\tlz\\__init__.py', reloading
+[ 2024-09-29 18:26:59,642 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\toolz\\__init__.py', reloading
+[ 2024-09-29 18:26:59,650 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\tzdata\\__init__.py', reloading
+[ 2024-09-29 18:26:59,650 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\uc_micro\\__init__.py', reloading
+[ 2024-09-29 18:26:59,660 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\webencodings\\__init__.py', reloading
+[ 2024-09-29 18:26:59,665 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\wheel\\__init__.py', reloading
+[ 2024-09-29 18:26:59,665 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\wheel\\__init__.py', reloading
+[ 2024-09-29 18:26:59,673 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\widgetsnbextension\\__init__.py', reloading
+[ 2024-09-29 18:26:59,673 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\win32ctypes\\__init__.py', reloading
+[ 2024-09-29 18:26:59,673 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\win32ctypes\\__init__.py', reloading
+[ 2024-09-29 18:26:59,673 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\winpty\\__init__.py', reloading
+[ 2024-09-29 18:26:59,687 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\wrapt\\__init__.py', reloading
+[ 2024-09-29 18:26:59,687 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\xyzservices\\__init__.py', reloading
+[ 2024-09-29 18:26:59,702 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\yapf\\__init__.py', reloading
+[ 2024-09-29 18:26:59,702 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\yapf\\__init__.py', reloading
+[ 2024-09-29 18:26:59,702 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\yapftests\\__init__.py', reloading
+[ 2024-09-29 18:26:59,702 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\yapftests\\__init__.py', reloading
+[ 2024-09-29 18:26:59,704 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\zope\\__init__.py', reloading
+[ 2024-09-29 18:26:59,711 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\pythonwin\\pywin\\__init__.py', reloading
+[ 2024-09-29 18:26:59,711 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\pythonwin\\pywin\\__init__.py', reloading

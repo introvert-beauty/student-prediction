@@ -1,0 +1,6 @@
+[ 2024-09-27 07:28:32,579 ] 31 root - INFO - data is reading as dataframe
+[ 2024-09-27 07:28:32,606 ] 36 root - INFO - split the data as train and test
+[ 2024-09-27 07:28:32,651 ] 62 root - INFO - read the train and test
+[ 2024-09-27 07:28:32,651 ] 64 root - INFO - take the properocessor object
+[ 2024-09-27 07:28:32,665 ] 76 root - INFO - apply preprocessor
+[ 2024-09-27 07:28:35,941 ] 69 root - INFO - Best model: Linear Regression with score 0.9566438952061593

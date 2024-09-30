@@ -9,3 +9,4 @@ Requires-Dist: matplotlib
 Requires-Dist: seaborn
 Requires-Dist: scikit-learn
 Requires-Dist: dill
+Requires-Dist: flask

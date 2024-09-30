@@ -1,0 +1,7 @@
+[ 2024-09-29 17:23:09,238 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 17:23:09,245 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-29 17:23:09,539 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 17:23:09,551 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-29 17:23:10,938 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\_pytest\\logging.py', reloading
+[ 2024-09-29 17:23:11,022 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\_pytest\\monkeypatch.py', reloading
+[ 2024-09-29 17:23:11,092 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\_pytest\\recwarn.py', reloading

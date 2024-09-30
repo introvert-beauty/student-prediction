@@ -1,0 +1,6 @@
+[ 2024-09-29 17:23:01,959 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-29 17:23:01,963 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-29 17:23:05,156 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\_pytest\\doctest.py', reloading
+[ 2024-09-29 17:23:05,215 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\_pytest\\compat.py', reloading
+[ 2024-09-29 17:23:05,262 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\_pytest\\junitxml.py', reloading
+[ 2024-09-29 17:23:05,319 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\_pytest\\legacypath.py', reloading

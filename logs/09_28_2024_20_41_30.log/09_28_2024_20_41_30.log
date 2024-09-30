@@ -1,0 +1,5 @@
+[ 2024-09-28 20:41:30,151 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 20:41:30,156 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 20:41:40,736 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\app.py', reloading
+[ 2024-09-28 20:41:40,739 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\app.py', reloading
+[ 2024-09-28 20:41:40,739 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\app.py', reloading

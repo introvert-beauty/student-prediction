@@ -1,0 +1,10 @@
+[ 2024-09-28 20:52:12,529 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 20:52:12,542 ] 97 werkzeug - INFO -  * Debugger PIN: 118-175-317
+[ 2024-09-28 20:52:12,569 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 20:52:12,569 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 20:52:12,583 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 20:52:12,584 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 20:52:12,795 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 20:52:12,804 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 20:53:31,431 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\sklearn\\utils\\_indexing.py', reloading
+[ 2024-09-28 21:03:11,838 ] 97 werkzeug - INFO -  * Detected change in 'd:\\data_science_projects\\student_prediction_marks\\src\\components\\data_transformation.py', reloading

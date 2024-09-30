@@ -1,0 +1,9 @@
+[ 2024-09-28 20:43:11,078 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 20:43:11,086 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 20:43:11,091 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 20:43:11,091 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 20:46:12,750 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-09-28 20:46:12,751 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-09-28 20:46:12,755 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-09-28 20:46:12,755 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2024-09-28 20:46:12,755 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\pipeline\\predict_pipeline.py', reloading

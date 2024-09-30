@@ -1,0 +1,24 @@
+[ 2024-09-28 21:03:15,375 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 21:03:15,386 ] 97 werkzeug - INFO -  * Debugger PIN: 118-175-317
+[ 2024-09-28 21:03:15,608 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 21:03:15,617 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 21:03:15,620 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 21:03:15,631 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 21:03:15,636 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 21:03:15,636 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 21:03:15,636 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 21:03:15,640 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 21:03:15,643 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 21:03:15,648 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 21:03:15,650 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 21:03:15,656 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 21:03:17,393 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 21:03:17] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-09-28 21:03:22,716 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 21:03:22] "GET / HTTP/1.1" 200 -
+[ 2024-09-28 21:04:08,830 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2024-09-28 21:04:08,830 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2024-09-28 21:04:08,830 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2024-09-28 21:04:08,830 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2024-09-28 21:04:08,830 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2024-09-28 21:04:08,830 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2024-09-28 21:04:08,839 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 21:04:08] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2024-09-28 21:22:01,268 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\src\\utils.py', reloading

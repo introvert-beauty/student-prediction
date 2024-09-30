@@ -1,0 +1,5 @@
+[ 2024-09-27 07:20:11,927 ] 31 root - INFO - data is reading as dataframe
+[ 2024-09-27 07:20:11,952 ] 36 root - INFO - split the data as train and test
+[ 2024-09-27 07:20:12,010 ] 62 root - INFO - read the train and test
+[ 2024-09-27 07:20:12,010 ] 64 root - INFO - take the properocessor object
+[ 2024-09-27 07:20:12,010 ] 76 root - INFO - apply preprocessor

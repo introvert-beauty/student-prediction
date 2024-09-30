@@ -1,0 +1,8 @@
+[ 2024-09-29 18:37:11,280 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-09-29 18:37:11,280 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-09-29 18:37:12,600 ] 31 root - INFO - data is reading as dataframe
+[ 2024-09-29 18:37:12,619 ] 36 root - INFO - split the data as train and test
+[ 2024-09-29 18:37:12,664 ] 51 root - INFO - read the train and test
+[ 2024-09-29 18:37:12,664 ] 53 root - INFO - take the properocessor object
+[ 2024-09-29 18:37:12,665 ] 65 root - INFO - apply preprocessor
+[ 2024-09-29 18:37:43,412 ] 61 root - INFO - Best model: LinearRegression with score 0.9566438952061593

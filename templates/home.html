@@ -1,0 +1,336 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Student Performance Prediction</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+      label {
+        display: block;
+        margin-top: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Student Performance Prediction</h1> -->
+    <!-- StudentID
+    <form action="{{ url_for('predict_datapoint')}}" method="post">
+      <label for="age">StudentID:</label>
+      <input
+        type="number"
+        id="StudentID"
+        name="StudentID"
+        required
+        placeholder="Enter your StudentID"
+      /><br />
+
+      <label for="age">Age:</label>
+      <input
+        type="number"
+        id="age"
+        name="age"
+        required
+        placeholder="Enter your age"
+      /><br />
+
+      <label>Gender:</label>
+      <input type="radio" id="male" name="Gender" value="1" required />
+      <label for="male">Male</label>
+      <input type="radio" id="female" name="Gender" value="0" required />
+      <label for="female">Female</label><br />
+
+      <label>Ethnicity:</label>
+      <input type="checkbox" id="ethnicity1" name="Ethnicity" value="0" />
+      <label for="ethnicity1">Ethnicity 1</label>
+      <input type="checkbox" id="ethnicity2" name="Ethnicity" value="1" />
+      <label for="ethnicity2">Ethnicity 2</label>
+      <input type="checkbox" id="ethnicity3" name="Ethnicity" value="2" />
+      <label for="ethnicity3">Ethnicity 3</label><br />
+
+      <label for="parentalEducation">Parental Education:</label>
+      <input
+        type="number"
+        id="parentalEducation"
+        name="ParentalEducation"
+        required
+        placeholder="Enter parental education level (0-3)"
+      /><br />
+
+      <label for="studyTimeWeekly">Study Time Weekly (hours):</label>
+      <input
+        type="number"
+        id="studyTimeWeekly"
+        name="StudyTimeWeekly"
+        step="0.01"
+        required
+        placeholder="Enter study time in hours"
+      /><br />
+
+      <label for="absences">Absences:</label>
+      <input
+        type="number"
+        id="absences"
+        name="Absences"
+        required
+        placeholder="Enter number of absences"
+      /><br />
+
+      <label>Tutoring:</label>
+      <input type="radio" id="tutoringYes" name="Tutoring" value="1" required />
+      <label for="tutoringYes">Yes</label>
+      <input type="radio" id="tutoringNo" name="Tutoring" value="0" required />
+      <label for="tutoringNo">No</label><br />
+
+      <label>Parental Support:</label>
+      <input
+        type="number"
+        id="parentalSupport"
+        name="ParentalSupport"
+        required
+        placeholder="Enter parental support level (0-2)"
+      /><br />
+
+      <label>Extracurricular Activities:</label>
+      <input
+        type="radio"
+        id="extracurricularYes"
+        name="Extracurricular"
+        value="1"
+        required
+      />
+      <label for="extracurricularYes">Yes</label>
+      <input
+        type="radio"
+        id="extracurricularNo"
+        name="Extracurricular"
+        value="0"
+        required
+      />
+      <label for="extracurricularNo">No</label><br />
+
+      <label>Sports Participation:</label>
+      <input type="radio" id="sportsYes" name="Sports" value="1" required />
+      <label for="sportsYes">Yes</label>
+      <input type="radio" id="sportsNo" name="Sports" value="0" required />
+      <label for="sportsNo">No</label><br />
+
+
+      <label>Music Participation:</label>
+      <input type="radio" id="musicYes" name="Music" value="1" required />
+      <label for="musicYes">Yes</label>
+      <input type="radio" id="musicNo" name="Music" value="0" required />
+      <label for="musicNo">No</label><br />
+
+      <label>Volunteering:</label>
+      <input
+        type="radio"
+        id="volunteeringYes"
+        name="Volunteering"
+        value="1"
+        required
+      />
+      <label for="volunteeringYes">Yes</label>
+      <input
+        type="radio"
+        id="volunteeringNo"
+        name="Volunteering"
+        value="0"
+        required
+      />
+      <label for="volunteeringNo">No</label><br />
+
+      <label for="gradeClass">Grade Class:</label>
+      <input
+        type="number"
+        id="gradeClass"
+        name="GradeClass"
+        required
+        placeholder="Enter your grade class (0-4)"
+      /><br />
+
+      <div class="mb-3">
+        <input
+          class="btn btn-primary"
+          type="submit"
+          value="Predict your Maths Score"
+          required
+        />
+      </div>
+    </form>
+    <h2>THE prediction is {{results}}</h2>
+  </body>
+</html> -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Prediction Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        h2 {
+            text-align: center;
+            color: #007bff;
+        }
+        .form-section {
+            margin: 20px 0;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        .form-section label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        .form-section input[type="text"],
+        .form-section input[type="number"],
+        .form-section input[type="radio"],
+        .form-section input[type="checkbox"] {
+            margin: 10px 0;
+        }
+        .personal-info {
+            background-color: #d1ecf1;
+        }
+        .academic-info {
+            background-color: #d4edda;
+        }
+        .extracurricular-info {
+            background-color: #f8d7da;
+        }
+        .btn-primary {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px 0;
+            background-color: #007bff;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Student Prediction Form</h1>
+    </header>
+    <div class="container">
+        <h2>Enter Your Details</h2>
+        <form action="{{ url_for('predict_datapoint')}}" method="post">
+            <div class="form-section personal-info">
+                <label for="StudentID">StudentID:</label>
+                <input type="number" id="StudentID" name="StudentID" required placeholder="Enter your StudentID" /><br />
+
+                <label for="age">Age:</label>
+                <input type="number" id="age" name="age" required placeholder="Enter your age" /><br />
+
+                <label>Gender:</label>
+                <input type="radio" id="male" name="Gender" value="1" required />
+                <label for="male">Male</label>
+                <input type="radio" id="female" name="Gender" value="0" required />
+                <label for="female">Female</label><br />
+            </div>
+
+            <div class="form-section academic-info">
+                <label>Ethnicity:</label>
+                <input type="checkbox" id="ethnicity1" name="Ethnicity" value="0" />
+                <label for="ethnicity1">Ethnicity 1</label>
+                <input type="checkbox" id="ethnicity2" name="Ethnicity" value="1" />
+                <label for="ethnicity2">Ethnicity 2</label>
+                <input type="checkbox" id="ethnicity3" name="Ethnicity" value="2" />
+                <label for="ethnicity3">Ethnicity 3</label><br />
+
+                <label for="parentalEducation">Parental Education:</label>
+                <input type="number" id="parentalEducation" name="ParentalEducation" required placeholder="Enter parental education level (0-3)" /><br />
+
+                <label for="studyTimeWeekly">Study Time Weekly (hours):</label>
+                <input type="number" id="studyTimeWeekly" name="StudyTimeWeekly" step="0.01" required placeholder="Enter study time in hours" /><br />
+
+                <label for="absences">Absences:</label>
+                <input type="number" id="absences" name="Absences" required placeholder="Enter number of absences" /><br />
+            </div>
+
+            <div class="form-section extracurricular-info">
+                <label>Tutoring:</label>
+                <input type="radio" id="tutoringYes" name="Tutoring" value="1" required />
+                <label for="tutoringYes">Yes</label>
+                <input type="radio" id="tutoringNo" name="Tutoring" value="0" required />
+                <label for="tutoringNo">No</label><br />
+
+                <label for="parentalSupport">Parental Support:</label>
+                <input type="number" id="parentalSupport" name="ParentalSupport" required placeholder="Enter parental support level (0-2)" /><br />
+
+                <label>Extracurricular Activities:</label>
+                <input type="radio" id="extracurricularYes" name="Extracurricular" value="1" required />
+                <label for="extracurricularYes">Yes</label>
+                <input type="radio" id="extracurricularNo" name="Extracurricular" value="0" required />
+                <label for="extracurricularNo">No</label><br />
+
+                <label>Sports Participation:</label>
+                <input type="radio" id="sportsYes" name="Sports" value="1" required />
+                <label for="sportsYes">Yes</label>
+                <input type="radio" id="sportsNo" name="Sports" value="0" required />
+                <label for="sportsNo">No</label><br />
+
+                <label>Music Participation:</label>
+                <input type="radio" id="musicYes" name="Music" value="1" required />
+                <label for="musicYes">Yes</label>
+                <input type="radio" id="musicNo" name="Music" value="0" required />
+                <label for="musicNo">No</label><br />
+
+                <label>Volunteering:</label>
+                <input type="radio" id="volunteeringYes" name="Volunteering" value="1" required />
+                <label for="volunteeringYes">Yes</label>
+                <input type="radio" id="volunteeringNo" name="Volunteering" value="0" required />
+                <label for="volunteeringNo">No</label><br />
+
+                <label for="gradeClass">Grade Class:</label>
+                <input type="number" id="gradeClass" name="GradeClass" required placeholder="Enter your grade class (0-4)" /><br />
+            </div>
+
+            <div class="mb-3">
+                <input class="btn btn-primary" type="submit" value="Predict your Maths Score" required />
+            </div>
+        </form>
+        <h2>THE prediction is {{results}}</h2>
+    </div>
+    <footer>
+        <p>© 2024 Student Prediction System</p>
+    </footer>
+</body>
+</html>

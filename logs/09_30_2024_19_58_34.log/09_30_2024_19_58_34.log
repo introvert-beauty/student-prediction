@@ -1,0 +1,6 @@
+[ 2024-09-30 19:58:34,945 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-30 19:58:34,957 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-30 19:58:39,750 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2024 19:58:39] "GET / HTTP/1.1" 200 -
+[ 2024-09-30 19:59:24,851 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2024 19:59:24] "POST / HTTP/1.1" 200 -
+[ 2024-09-30 19:59:49,257 ] 97 werkzeug - INFO -  * Detected change in 'd:\\data_science_projects\\student_prediction_marks\\venv\\Lib\\site-packages\\flask\\__init__.py', reloading
+[ 2024-09-30 19:59:49,257 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\venv\\Lib\\site-packages\\flask\\__init__.py', reloading

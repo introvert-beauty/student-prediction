@@ -1,0 +1,24 @@
+[ 2024-09-28 21:04:12,866 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 21:04:12,873 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 21:04:12,873 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 21:04:12,873 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 21:04:12,873 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 21:04:12,879 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 21:04:12,879 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-28 21:04:12,882 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 21:04:12,882 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 21:04:12,886 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 21:04:12,888 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 21:04:12,892 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-09-28 21:04:12,968 ] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2024 21:04:12] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-09-28 21:19:05,134 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\flask\\typing.py', reloading
+[ 2024-09-28 21:19:05,134 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\flask\\typing.py', reloading
+[ 2024-09-28 21:19:05,134 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\flask\\typing.py', reloading
+[ 2024-09-28 21:19:05,134 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\flask\\typing.py', reloading
+[ 2024-09-28 21:19:05,134 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\flask\\typing.py', reloading
+[ 2024-09-28 21:19:05,134 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\flask\\typing.py', reloading
+[ 2024-09-28 21:19:05,134 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+[ 2024-09-28 21:19:05,134 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+[ 2024-09-28 21:19:05,134 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+[ 2024-09-28 21:19:05,134 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+[ 2024-09-28 21:19:05,134 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
