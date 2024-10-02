@@ -10,3 +10,6 @@ Requires-Dist: seaborn
 Requires-Dist: scikit-learn
 Requires-Dist: dill
 Requires-Dist: flask
+Requires-Dist: Flask==2.0.1
+Requires-Dist: Werkzeug==2.2.2
+Requires-Dist: gunicorn
