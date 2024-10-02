@@ -1,0 +1,20 @@
+[ 2024-10-02 10:10:32,861 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-02 10:10:32,866 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-10-02 10:10:33,061 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-02 10:10:33,072 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-10-02 10:10:47,755 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Oct/2024 10:10:47] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-10-02 10:10:53,001 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Oct/2024 10:10:53] "GET / HTTP/1.1" 200 -
+[ 2024-10-02 10:11:25,870 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Oct/2024 10:11:25] "POST / HTTP/1.1" 200 -
+[ 2024-10-02 10:12:37,671 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Oct/2024 10:12:37] "GET / HTTP/1.1" 200 -
+[ 2024-10-02 10:12:45,430 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Oct/2024 10:12:45] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-10-02 10:13:51,080 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Oct/2024 10:13:51] "GET / HTTP/1.1" 200 -
+[ 2024-10-02 10:13:51,198 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Oct/2024 10:13:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-10-02 10:14:08,552 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Oct/2024 10:14:08] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-10-02 10:21:05,189 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\app.py', reloading
+[ 2024-10-02 10:21:05,189 ] 97 werkzeug - INFO -  * Detected change in 'd:\\data_science_projects\\student_prediction_marks\\app.py', reloading
+[ 2024-10-02 10:21:05,192 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\app.py', reloading
+[ 2024-10-02 10:21:05,192 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\app.py', reloading
+[ 2024-10-02 10:21:05,192 ] 97 werkzeug - INFO -  * Detected change in 'd:\\data_science_projects\\student_prediction_marks\\app.py', reloading
+[ 2024-10-02 10:21:05,192 ] 97 werkzeug - INFO -  * Detected change in 'd:\\data_science_projects\\student_prediction_marks\\app.py', reloading
+[ 2024-10-02 10:21:05,192 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\app.py', reloading
+[ 2024-10-02 10:21:05,192 ] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA_SCIENCE_PROJECTS\\student_prediction_marks\\app.py', reloading

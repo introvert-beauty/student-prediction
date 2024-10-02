@@ -7,14 +7,14 @@ from src.pipeline.predict_pipeline import Customdata,predictPipeline
 app=Flask(__name__)
 application=app
 
-@app.route("/predictdata")
+@app.route("/")
 def index():
     return render_template("index.html")
 
 # Age	Gender	Ethnicity	ParentalEducation	StudyTimeWeekly	Absences	Tutoring	ParentalSupport	Extracurricular	Sports	Sports	Volunteering	GPA	GradeClass
 
 
-@app.route("/",methods=["GET", "POST"])
+@app.route("/predictdata",methods=["GET", "POST"])
 def predict_datapoint():
     if request.method=="GET":
         return render_template("home.html")

@@ -1,0 +1,10 @@
+[ 2024-10-02 10:46:08,383 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-02 10:46:08,391 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-10-02 10:46:08,527 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-02 10:46:08,542 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-10-02 10:46:08,543 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-02 10:46:08,559 ] 97 werkzeug - INFO -  * Debugger PIN: 379-281-516
+[ 2024-10-02 10:46:25,164 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\setuptools\\command\\develop.py', reloading
+[ 2024-10-02 10:46:25,164 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\setuptools\\command\\develop.py', reloading
+[ 2024-10-02 10:46:25,495 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py', reloading
+[ 2024-10-02 10:46:25,495 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\anaconda3\\anacondasharmi\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py', reloading
